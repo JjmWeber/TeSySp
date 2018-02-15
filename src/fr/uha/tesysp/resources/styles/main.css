@@ -1,0 +1,12 @@
+.menu > .label {
+    -fx-text-fill: white;
+}
+
+.radio-button-custom {
+    -jfx-selected-color: #C76D1D;
+    -jfx-unselected-color: white;
+}
+
+.text-field-custom {
+    -fx-text-inner-color: white;
+}
