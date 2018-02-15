@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TeSySp.iml" filepath="$PROJECT_DIR$/.idea/TeSySp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesysp.iml" filepath="$PROJECT_DIR$/tesysp.iml" />
     </modules>
   </component>
 </project>
