@@ -1,2 +1,0 @@
-# TeSySp
-Technical Symbol Spotter
