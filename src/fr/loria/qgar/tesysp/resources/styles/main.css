@@ -1,0 +1,28 @@
+.menu > .label {
+    -fx-text-fill: white;
+}
+
+.radio-button-custom {
+    -jfx-selected-color: #C76D1D;
+    -jfx-unselected-color: white;
+}
+
+.text-field-custom {
+    -fx-text-inner-color: white;
+}
+
+*.split-pane{
+    -fx-background-color: grey;
+}
+
+*.split-pane:horizontal>*.split-pane-divider{
+    -fx-background-color: rgb(211, 211, 211);
+}
+
+*.titled-pane>*.content{
+    -fx-border-color: red;
+}
+
+*.split-pane:vertical>*.split-pane-divider{
+    -fx-background-color: white;
+}
